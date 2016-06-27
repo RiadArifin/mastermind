@@ -100,8 +100,6 @@ public class Mastermind {
                 System.exit(0);
             }
         }
-
-        System.out.println("Press any key to continue...");
     }
 
 }
