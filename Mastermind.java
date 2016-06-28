@@ -1,7 +1,6 @@
 /*
- * CSCI 1228 Assignment 4   
  * A program to play Mastermind
- * Md. Riad Arifin (A00395462), Feb 2016
+ * Md. Riad Arifin 
  */
 
 import java.util.Scanner;
