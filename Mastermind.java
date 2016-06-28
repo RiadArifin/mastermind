@@ -99,6 +99,7 @@ public class Mastermind {
                 System.exit(0);
             }
         }
-    }
+        
+     }
 
 }
